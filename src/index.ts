@@ -2,7 +2,7 @@ import { type Plugin, logger } from "@elizaos/core";
 
 const CARDANO_PLUGIN_NAME = "cardano";
 
-logger.info(`Twitter plugin loaded with service name: ${CARDANO_PLUGIN_NAME}`);
+logger.info(`Cardano plugin loaded with service name: ${CARDANO_PLUGIN_NAME}`);
 
 const cardanoPlugin: Plugin = {
   name: CARDANO_PLUGIN_NAME,
