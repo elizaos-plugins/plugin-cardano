@@ -167,6 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Building the future of blockchain integration*
 
-[![Website](https://img.shields.io/badge/Website-relipasoft.com-blue?style=for-the-badge)](https://relipasoft.com)
+[![Website](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAA/ElEQVR4AWJwL/ChKx6BFjL4nbEFlFvGNgyEMBSd4DZgA2bIBoxByxo3ACMwBr13YApWuLggEvoSiW2Sa1K8BgxPsmwDk5UkxluFkbmMdOZxixA47xDSSK0b97hfCDuTprOeKa/9XSGKIhRaYzAufEN4TrEHQ5JYi7AzXpmJYhUSxNSVBMgWYYH9piiqJBTaZcChEVZYJ6WsSNsiMR3WskYG50VCBz2mkdHW86QQlaltDEJI5dToK2HceoDxcpiXK2mwC6FQYC+8kXqr8EIhFpe4/0AoGm+LuLLZFouJAkLhQGgiIRbLSigceVX6ayOmTtAH4THiEGLCf32EnwDSXhneb6sDAAAAAElFTkSuQmCC)](https://relipasoft.com)
 
 </div>
