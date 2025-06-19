@@ -10,6 +10,8 @@
     "noEmit": true,
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
   },
   "include": ["src/**/*"]
 }
